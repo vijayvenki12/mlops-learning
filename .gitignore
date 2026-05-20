@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pycgi
+.idea/
+cleaned_data.csv
