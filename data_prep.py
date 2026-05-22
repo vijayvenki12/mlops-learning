@@ -12,3 +12,4 @@ df.fillna(df.median(numeric_only=True), inplace=True)
 # Save cleaned data
 df.to_csv("cleaned_data.csv", index=False)
 print("Data cleaned and saved!")
+print("Day2 learning Git")
